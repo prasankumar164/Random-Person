@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Alma", "last": "Hansen" },
+      "location": {
+        "street": { "number": 7904, "name": "Irisvej" },
+        "city": "Hurup Thy",
+        "state": "Danmark",
+        "country": "Denmark", 
+        "postcode": 59973,
+        "coordinates": { "latitude": "-32.6663", "longitude": "88.2531" },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "alma.hansen@example.com",
+      "login": {
+        "uuid": "037ac650-8609-495e-8fc2-f636a21835f7",
+        "username": "blackzebra451",
+        "password": "sergio",
+        "salt": "AdJLv4H7",
+        "md5": "d1320b9557bc24076fc8dafd608ed646",
+        "sha1": "15cb636f1a50453736d4eafc3973599ac3f8bf67",
+        "sha256": "e746a745e04df3b11876d5f818e1c8211954d583aeff976c8526fb621416812b"
+      },
+      "dob": { "date": "1957-04-24T12:59:34.078Z", "age": 64 },
+      "registered": { "date": "2008-10-23T14:05:03.204Z", "age": 13 },
+      "phone": "11523940",
+      "cell": "38417309",
+      "id": { "name": "CPR", "value": "240457-1715" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+      },
+      "nat": "DK"  
+    }
+  ],
+  "info": {
+    "seed": "3e5e5a4fa43e76ab",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
